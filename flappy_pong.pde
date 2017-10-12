@@ -1,12 +1,10 @@
-/********* VARIABLES *********/
+// FLAPPY PONG - Beta 0.1 version
+// October 11, 2017
+// suheryhndk - (open access @github/suheryhndk)
+// contact me - suheryhandoko@yahoo.com
 
-// We control which screen is active by settings / updating
-// gameScreen variable. We display the correct screen according
-// to the value of this variable.
-// 
-// 0: Initial Screen
-// 1: Game Screen
-// 2: Game-over Screen 
+
+/********* VARIABLES *********/
 
 int gameScreen = 0;
 
